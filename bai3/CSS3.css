@@ -106,6 +106,7 @@ nav > ul {
 }
 .grid{
     margin-top: 90px;
+
 }
 .icon {
     width: 70px;
@@ -114,6 +115,9 @@ nav > ul {
     background-color: #d58512;
     float: left;
     clear: none;
+}
+.desc{
+    margin-left: 100px;
 }
 #video{
     margin-top: 70px;

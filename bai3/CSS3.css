@@ -141,9 +141,13 @@ nav > ul {
 }
 
 .product ol > li{
-    line-height:23px;
+    line-height:30px;
 }
-
+.product h2{
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Berlin Sans FB";
+}
 .level{
     background-color: #9d9d9d;
     height: 50px;
@@ -160,7 +164,7 @@ nav > ul {
     background-color: #f0ad4e;
 }
 footer{
-    margin-top: 300px;
+    margin-top: 350px;
     text-align: right;
     background-color: #ddd;
 }

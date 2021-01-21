@@ -1,6 +1,4 @@
-/** global element styling **/
 
-/*@import 'https://fonts.googleapis.com/css?family=Lato:400,700';*/
 
 * {
     margin: 0;
@@ -37,7 +35,7 @@ header {
     padding: 0px 20px;
     display: flex;
     align-items: center;
-    background-color: #d58512;
+    background-color: whitesmoke;
 }
 
 
@@ -105,6 +103,78 @@ nav > ul {
 #hero input[type='submit']:hover {
     background-color: orange;
     transition: background-color 1s;
+}
+.grid{
+    margin-top: 90px;
+}
+.icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #d58512;
+    float: left;
+    clear: none;
+}
+#video{
+    margin-top: 70px;
+    text-align: center;
+
+}
+#how-it-works {
+    text-align: center;
+}
+#pricing{
+    text-align: center;
+    padding-top: 50px;
+}
+.product {
+    width: 300px;
+    float: left;
+    clear: none;
+    text-align: center;
+    border: 1px solid;
+    margin-right: 30px;
+}
+
+.product ol > li{
+    line-height:23px;
+}
+
+.level{
+    background-color: #9d9d9d;
+    height: 50px;
+    font-weight: bold;
+    font-size:20px;
+    padding-top: 10px;
+}
+
+.btn{
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    font-size:20px;
+    background-color: #f0ad4e;
+}
+footer{
+    margin-top: 300px;
+    text-align: right;
+    background-color: #ddd;
+}
+footer > ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer > ul > li {
+    padding: 0 10px;
+}
+
+footer > span {
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 0.9em;
+    color: #444;
 }
 
 

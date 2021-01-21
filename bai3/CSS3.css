@@ -109,10 +109,8 @@ nav > ul {
 
 }
 .icon {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    background-color: #d58512;
+    color: orange;
+    font-size: 70px;
     float: left;
     clear: none;
 }

@@ -12,14 +12,17 @@ nav {
 }
 
 ul{
-    margin: 0;
-    padding: 0;
-    padding-top: 20px;
-    text-align: right;
+    width: 450px;
+    text-align: center;
     text-decoration: none;
 }
 li {
+    width:150px;
     list-style: none;
+   }
+.nav > ul > li {
+    padding-top: 20px;
+
 
 }
 a {
@@ -29,7 +32,7 @@ a {
 }
 nav > ul {
     width: 400px;
-    
+    height: 79px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;

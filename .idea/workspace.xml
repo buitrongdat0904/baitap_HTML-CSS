@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79e03a98-4b40-44cf-b042-f1296b6d9fc1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bai5/CSS5.css" afterPath="$PROJECT_DIR$/bai5/CSS5.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bai5/HTML5.html" afterPath="$PROJECT_DIR$/bai5/HTML5.html" />
     </list>
@@ -14,28 +13,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.5998862">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="HTML5.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bai5/HTML5.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="756">
-                  <caret line="96" column="7" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+                <state relative-caret-position="2538">
+                  <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
                   <folding>
                     <element signature="n#style#0;n#p#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="e#1346#1350#1" expanded="true" />
-                    <element signature="e#1443#1447#0" expanded="true" />
-                    <element signature="e#1893#1897#1" expanded="true" />
-                    <element signature="e#1998#2002#0" expanded="true" />
-                    <element signature="e#2432#2436#1" expanded="true" />
-                    <element signature="e#2538#2542#0" expanded="true" />
-                    <element signature="e#2971#2975#1" expanded="true" />
-                    <element signature="e#3081#3085#0" expanded="true" />
-                    <element signature="e#3515#3519#1" expanded="true" />
-                    <element signature="e#3616#3620#0" expanded="true" />
-                    <element signature="e#4057#4061#1" expanded="true" />
-                    <element signature="e#4158#4162#0" expanded="true" />
+                    <element signature="e#1447#1451#1" expanded="true" />
+                    <element signature="e#1544#1548#0" expanded="true" />
+                    <element signature="e#1994#1998#1" expanded="true" />
+                    <element signature="e#2099#2103#0" expanded="true" />
+                    <element signature="e#2533#2537#1" expanded="true" />
+                    <element signature="e#2639#2643#0" expanded="true" />
+                    <element signature="e#3072#3076#1" expanded="true" />
+                    <element signature="e#3182#3186#0" expanded="true" />
+                    <element signature="e#3616#3620#1" expanded="true" />
+                    <element signature="e#3717#3721#0" expanded="true" />
+                    <element signature="e#4158#4162#1" expanded="true" />
+                    <element signature="e#4259#4263#0" expanded="true" />
+                    <element signature="e#5716#5722#0" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#p#1;n#footer#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -48,8 +49,8 @@
           <file leaf-file-name="CSS5.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bai5/CSS5.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="197">
-                  <caret line="114" column="1" lean-forward="true" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
+                <state relative-caret-position="-2625">
+                  <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
@@ -83,6 +84,7 @@
       <find>col</find>
       <find>btn</find>
       <find>back</find>
+      <find>rem</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,7 +118,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
@@ -148,21 +150,6 @@
             <path>
               <item name="baitap_HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
               <item name="baitap_HTML-CSS" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="baitap_HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baitap_HTML-CSS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bai3" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="baitap_HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baitap_HTML-CSS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bai4" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="baitap_HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baitap_HTML-CSS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bai5" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -204,15 +191,15 @@
       <workItem from="1611105522001" duration="19561000" />
       <workItem from="1611193653729" duration="20493000" />
       <workItem from="1611279166310" duration="14895000" />
-      <workItem from="1611624975789" duration="703000" />
+      <workItem from="1611624975789" duration="7809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67171000" />
+    <option name="totallyTimeSpent" value="74277000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.084895834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -251,18 +238,20 @@
           <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#p#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1346#1350#1" expanded="true" />
-            <element signature="e#1443#1447#0" expanded="true" />
-            <element signature="e#1893#1897#1" expanded="true" />
-            <element signature="e#1998#2002#0" expanded="true" />
-            <element signature="e#2432#2436#1" expanded="true" />
-            <element signature="e#2538#2542#0" expanded="true" />
-            <element signature="e#2971#2975#1" expanded="true" />
-            <element signature="e#3081#3085#0" expanded="true" />
-            <element signature="e#3515#3519#1" expanded="true" />
-            <element signature="e#3616#3620#0" expanded="true" />
-            <element signature="e#4057#4061#1" expanded="true" />
-            <element signature="e#4158#4162#0" expanded="true" />
+            <element signature="e#1447#1451#1" expanded="true" />
+            <element signature="e#1544#1548#0" expanded="true" />
+            <element signature="e#1994#1998#1" expanded="true" />
+            <element signature="e#2099#2103#0" expanded="true" />
+            <element signature="e#2533#2537#1" expanded="true" />
+            <element signature="e#2639#2643#0" expanded="true" />
+            <element signature="e#3072#3076#1" expanded="true" />
+            <element signature="e#3182#3186#0" expanded="true" />
+            <element signature="e#3616#3620#1" expanded="true" />
+            <element signature="e#3717#3721#0" expanded="true" />
+            <element signature="e#4158#4162#1" expanded="true" />
+            <element signature="e#4259#4263#0" expanded="true" />
+            <element signature="e#5716#5722#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#footer#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -365,33 +354,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai5/CSS5.css">
+    <entry file="file://$PROJECT_DIR$/bai5/HTML5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="114" column="1" lean-forward="true" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="2538">
+          <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1447#1451#1" expanded="true" />
+            <element signature="e#1544#1548#0" expanded="true" />
+            <element signature="e#1994#1998#1" expanded="true" />
+            <element signature="e#2099#2103#0" expanded="true" />
+            <element signature="e#2533#2537#1" expanded="true" />
+            <element signature="e#2639#2643#0" expanded="true" />
+            <element signature="e#3072#3076#1" expanded="true" />
+            <element signature="e#3182#3186#0" expanded="true" />
+            <element signature="e#3616#3620#1" expanded="true" />
+            <element signature="e#3717#3721#0" expanded="true" />
+            <element signature="e#4158#4162#1" expanded="true" />
+            <element signature="e#4259#4263#0" expanded="true" />
+            <element signature="e#5716#5722#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#footer#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai5/HTML5.html">
+    <entry file="file://$PROJECT_DIR$/bai5/CSS5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="96" column="7" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1346#1350#1" expanded="true" />
-            <element signature="e#1443#1447#0" expanded="true" />
-            <element signature="e#1893#1897#1" expanded="true" />
-            <element signature="e#1998#2002#0" expanded="true" />
-            <element signature="e#2432#2436#1" expanded="true" />
-            <element signature="e#2538#2542#0" expanded="true" />
-            <element signature="e#2971#2975#1" expanded="true" />
-            <element signature="e#3081#3085#0" expanded="true" />
-            <element signature="e#3515#3519#1" expanded="true" />
-            <element signature="e#3616#3620#0" expanded="true" />
-            <element signature="e#4057#4061#1" expanded="true" />
-            <element signature="e#4158#4162#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2625">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>

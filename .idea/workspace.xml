@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79e03a98-4b40-44cf-b042-f1296b6d9fc1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bai5/CSS5.css" afterPath="$PROJECT_DIR$/bai5/CSS5.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bai5/HTML5.html" afterPath="$PROJECT_DIR$/bai5/HTML5.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,31 +12,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5998862">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="HTML5.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bai5/HTML5.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="725">
-                  <caret line="78" column="24" lean-forward="true" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+                <state relative-caret-position="743">
+                  <caret line="128" column="87" lean-forward="true" selection-start-line="128" selection-start-column="87" selection-end-line="128" selection-end-column="87" />
                   <folding>
                     <element signature="n#style#0;n#p#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="e#1447#1451#1" expanded="true" />
-                    <element signature="e#1544#1548#0" expanded="true" />
-                    <element signature="e#1994#1998#1" expanded="true" />
-                    <element signature="e#2099#2103#0" expanded="true" />
-                    <element signature="e#2533#2537#1" expanded="true" />
-                    <element signature="e#2639#2643#0" expanded="true" />
-                    <element signature="e#3072#3076#1" expanded="true" />
-                    <element signature="e#3182#3186#0" expanded="true" />
-                    <element signature="e#3616#3620#1" expanded="true" />
-                    <element signature="e#3717#3721#0" expanded="true" />
-                    <element signature="e#4158#4162#1" expanded="true" />
-                    <element signature="e#4259#4263#0" expanded="true" />
-                    <element signature="e#5830#5836#0" expanded="true" />
+                    <element signature="e#1452#1456#1" expanded="true" />
+                    <element signature="e#1549#1553#0" expanded="true" />
+                    <element signature="e#2000#2004#1" expanded="true" />
+                    <element signature="e#2105#2109#0" expanded="true" />
+                    <element signature="e#2540#2544#1" expanded="true" />
+                    <element signature="e#2646#2650#0" expanded="true" />
+                    <element signature="e#3080#3084#1" expanded="true" />
+                    <element signature="e#3190#3194#0" expanded="true" />
+                    <element signature="e#3625#3629#1" expanded="true" />
+                    <element signature="e#3726#3730#0" expanded="true" />
+                    <element signature="e#4168#4172#1" expanded="true" />
+                    <element signature="e#4269#4273#0" expanded="true" />
+                    <element signature="e#5841#5847#0" expanded="true" />
                     <element signature="n#style#0;n#a#0;n#p#1;n#footer#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="HTML6.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bai6/HTML6.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -45,12 +54,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+        <leaf>
           <file leaf-file-name="CSS5.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bai5/CSS5.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="248">
-                  <caret line="83" column="19" lean-forward="true" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+                <state relative-caret-position="210">
+                  <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -63,8 +72,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -107,8 +116,10 @@
         <option value="$PROJECT_DIR$/bai4/CSS4.css" />
         <option value="$PROJECT_DIR$/bai4/HTML4.html" />
         <option value="$PROJECT_DIR$/bai3/CSS3.css" />
-        <option value="$PROJECT_DIR$/bai5/HTML5.html" />
         <option value="$PROJECT_DIR$/bai5/CSS5.css" />
+        <option value="$PROJECT_DIR$/bai5/HTML5.html" />
+        <option value="$PROJECT_DIR$/bai6/CSS6.css" />
+        <option value="$PROJECT_DIR$/bai6/HTML6.html" />
       </list>
     </option>
   </component>
@@ -152,6 +163,11 @@
               <item name="baitap_HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
               <item name="baitap_HTML-CSS" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="baitap_HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baitap_HTML-CSS" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bai6" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -192,18 +208,17 @@
       <workItem from="1611105522001" duration="19561000" />
       <workItem from="1611193653729" duration="20493000" />
       <workItem from="1611279166310" duration="14895000" />
-      <workItem from="1611624975789" duration="9828000" />
+      <workItem from="1611624975789" duration="14345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76296000" />
+    <option name="totallyTimeSpent" value="80813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.084895834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -239,19 +254,19 @@
           <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#p#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1447#1451#1" expanded="true" />
-            <element signature="e#1544#1548#0" expanded="true" />
-            <element signature="e#1994#1998#1" expanded="true" />
-            <element signature="e#2099#2103#0" expanded="true" />
-            <element signature="e#2533#2537#1" expanded="true" />
-            <element signature="e#2639#2643#0" expanded="true" />
-            <element signature="e#3072#3076#1" expanded="true" />
-            <element signature="e#3182#3186#0" expanded="true" />
-            <element signature="e#3616#3620#1" expanded="true" />
-            <element signature="e#3717#3721#0" expanded="true" />
-            <element signature="e#4158#4162#1" expanded="true" />
-            <element signature="e#4259#4263#0" expanded="true" />
-            <element signature="e#5830#5836#0" expanded="true" />
+            <element signature="e#1452#1456#1" expanded="true" />
+            <element signature="e#1549#1553#0" expanded="true" />
+            <element signature="e#2000#2004#1" expanded="true" />
+            <element signature="e#2105#2109#0" expanded="true" />
+            <element signature="e#2540#2544#1" expanded="true" />
+            <element signature="e#2646#2650#0" expanded="true" />
+            <element signature="e#3080#3084#1" expanded="true" />
+            <element signature="e#3190#3194#0" expanded="true" />
+            <element signature="e#3625#3629#1" expanded="true" />
+            <element signature="e#3726#3730#0" expanded="true" />
+            <element signature="e#4168#4172#1" expanded="true" />
+            <element signature="e#4269#4273#0" expanded="true" />
+            <element signature="e#5841#5847#0" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#1;n#footer#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -355,33 +370,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bai6/HTML6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai6/CSS6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bai5/CSS5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="83" column="19" lean-forward="true" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+        <state relative-caret-position="210">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bai5/HTML5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="78" column="24" lean-forward="true" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+        <state relative-caret-position="743">
+          <caret line="128" column="87" lean-forward="true" selection-start-line="128" selection-start-column="87" selection-end-line="128" selection-end-column="87" />
           <folding>
             <element signature="n#style#0;n#p#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1447#1451#1" expanded="true" />
-            <element signature="e#1544#1548#0" expanded="true" />
-            <element signature="e#1994#1998#1" expanded="true" />
-            <element signature="e#2099#2103#0" expanded="true" />
-            <element signature="e#2533#2537#1" expanded="true" />
-            <element signature="e#2639#2643#0" expanded="true" />
-            <element signature="e#3072#3076#1" expanded="true" />
-            <element signature="e#3182#3186#0" expanded="true" />
-            <element signature="e#3616#3620#1" expanded="true" />
-            <element signature="e#3717#3721#0" expanded="true" />
-            <element signature="e#4158#4162#1" expanded="true" />
-            <element signature="e#4259#4263#0" expanded="true" />
-            <element signature="e#5830#5836#0" expanded="true" />
+            <element signature="e#1452#1456#1" expanded="true" />
+            <element signature="e#1549#1553#0" expanded="true" />
+            <element signature="e#2000#2004#1" expanded="true" />
+            <element signature="e#2105#2109#0" expanded="true" />
+            <element signature="e#2540#2544#1" expanded="true" />
+            <element signature="e#2646#2650#0" expanded="true" />
+            <element signature="e#3080#3084#1" expanded="true" />
+            <element signature="e#3190#3194#0" expanded="true" />
+            <element signature="e#3625#3629#1" expanded="true" />
+            <element signature="e#3726#3730#0" expanded="true" />
+            <element signature="e#4168#4172#1" expanded="true" />
+            <element signature="e#4269#4273#0" expanded="true" />
+            <element signature="e#5841#5847#0" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#1;n#footer#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>

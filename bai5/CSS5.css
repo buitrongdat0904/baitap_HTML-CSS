@@ -20,8 +20,8 @@ li {
     list-style: none;
 
 }
-a {
-    color: white;
+ul>li > a {
+   color: white;
     text-decoration: none;
     font-family: "Adobe Caslon Pro";
 }
@@ -41,20 +41,98 @@ nav > ul > li{
 #welcome-section {
     text-align: center;
     width: 100%;
-    height: 800px;
+    height: 750px;
     background-color: #444444;
 }
 #welcome-section > h2 {
-    color: white;
+
     font-size: 80px;
     font-family: "Source Code Pro";
-    padding-top: 350px;
+    padding-top: 300px;
 }
 #welcome-section > p{
     color: red;
     font-size: 30px;
 }
 
+
+.projects-section {
+    text-align: center;
+    padding: 160px 30px;
+   background-color: #265a88;
+}
+
+.projects-section-header {
+    max-width: 690px;
+    margin: 0 auto 95px auto;
+    border-bottom: 3px solid whitesmoke;
+    font-size: 45px;
+}
+
+
+
+
+.projects-grid {
+    display: grid;
+       
+    grid-gap: 65px;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 95px;
+}
+
+
+.project {
+    background-color:#adadad ;
+
+    border-radius: 2px;
+}
+
+.code {
+    transition: color 0.3s ease-out;
+}
+
+.project:hover .code {
+    color: #ff7f50;
+}
+
+.project-image {
+    height: calc(100% - 110px);
+    width: 100%;
+    object-fit: cover;
+}
+
+.project-title {
+    font-size: 30px;
+    padding: 30px 10px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 2px;
+}
+
+.btn-show-all {
+    font-size: 15px;
+    background-color: #8c8c8c;
+    transition: background 0.3s ease-out;
+}
+
+.btn-show-all:hover {
+    background-color: #c9e2b3;
+}
+
+.btn-show-all:hover > i {
+    transform: translateX(2px);
+}
+
+.btn-show-all > i {
+    margin-left: 10px;
+    transform: translateX(0);
+    transition: transform 0.3s ease-out;
+}
 
 
 

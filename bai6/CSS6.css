@@ -5,14 +5,13 @@
 
 nav {
     width: 100%;
-    height: 40px;
-    background-color: darkred;
+    height: 60px;
+    /*background-color: darkred;*/
     float: right;
     position: fixed;
 }
 
 ul{
-    width: 450px;
     text-align: center;
     text-decoration: none;
     padding-right: 30px;
@@ -22,27 +21,51 @@ li {
     list-style: none;
 }
 .nav > ul > li {
-    padding-top: 17px;
+    padding-top: 25px;
+}
 
+a {
+    color: gray;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+}
+nav > ul > li{
+    color: gray;
+    text-decoration: none;
+    font-family: arial,sans-serif;
 
 }
-a {
-    color: white;
-    text-decoration: none;
-    font-family: "Adobe Caslon Pro";
+nav > ul > li >i{
+    position:relative;
+    top:-4px;
+    /*left:80px;*/
+    z-index:2;
 }
 nav > ul {
-    width: 400px;
-
+    width: 200px;
     display: flex;
     flex-direction: row;
-
     float: right;
 }
 nav > ul > li{
     font-size: 14px;
-    background-color: transparent;
+
 }
 .nav >ul :hover{
-    background-color: #8c8c8c;
+   text-decoration: underline;
+}
+.image{
+    text-align: center;
+    padding-top: 11%;
+}
+
+.icon{
+    text-align: center;
+}
+.search{
+    margin-top: 20px;
+    width: 600px;
+    height: 40px;
+    border: 1px outset #8c8c8c;
+    border-radius: 50px;
 }

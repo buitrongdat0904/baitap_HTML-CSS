@@ -7,7 +7,6 @@ nav {
     width: 100%;
     height: 60px;
     /*background-color: darkred;*/
-
     position: fixed;
 }
 
@@ -16,19 +15,24 @@ ul{
     text-decoration: none;
     padding-right: 30px;
 }
+
 li {
     width:50px;
     list-style: none;
 }
+
 .nav > ul > li {
     padding-top: 25px;
 }
+
 .nav-list{
     float: right;
 }
+
 .nav-list-left{
     float: left;
 }
+
 .nav-list-left >li>a{
     padding-left: 20px;
 }
@@ -43,14 +47,11 @@ nav > ul > li{
     color: gray;
     text-decoration: none;
     font-family: arial,sans-serif;
-
 }
-
 
 nav > ul > li >i{
     position:relative;
     top:-4px;
-    /*left:80px;*/
     z-index:2;
 }
 
@@ -63,11 +64,12 @@ nav > ul {
 
 nav > ul > li{
     font-size: 14px;
-
 }
+
 .nav >ul :hover{
    text-decoration: underline;
 }
+
 .image{
     text-align: center;
     padding-top: 11%;
@@ -76,12 +78,11 @@ nav > ul > li{
 .icon{
     text-align: center;
 }
+
 .search{
     margin-top: 20px;
     width: 600px;
     height: 20px;
-
-    /*border-radius: 20px;*/
     padding: 10px;
     text-align: center;
     background-color: ghostwhite;
@@ -91,26 +92,23 @@ nav > ul > li{
 .buttons{
     text-align: center;
     margin-top: 30px;
-
-
 }
+
 .buttons > input{
     width: 150px;
     height: 40px;
     font-size: 15px;
-
 }
 footer {
     width: 100%;
     height: 60px;
-    /*background-color: darkred;*/
-
     position: fixed;
 }
 
 .footer-left{
     float: left;
 }
+
 .footer-right{
     float: right;
 }
@@ -121,7 +119,6 @@ footer ul li {
     font-size: 14px;
     padding: 13px;
 }
-
 
 footer{
    bottom: 30px;
@@ -138,14 +135,12 @@ footer > ul > li{
     width: 100px;
 }
 
-
 footer >ul :hover{
     text-decoration: underline;
 }
 footer >ul>li>a{
     position:relative;
     top:10px;
-    /*left:80px;*/
     z-index:2;
 }
 

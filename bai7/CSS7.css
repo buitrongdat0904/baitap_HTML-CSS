@@ -1,3 +1,6 @@
+* {
+    list-style-type: none;
+}
 body {
     min-height: 100%;
     position: relative;
@@ -12,16 +15,20 @@ body {
     background-color: white;
 }
 
-#searchbarimage {
+#logo {
+
     height: 30px;
     padding: 0px 28px 10px 30px;
     cursor: pointer;
+
 }
 
 html, body {
+
     margin: 0;
     padding: 0;
     height: auto;
+
 }
 
 #searchbarmic {
@@ -43,13 +50,250 @@ html, body {
     background-color: white;
 }
 
-#searchbarbutton svg {
-    height: 25px;
-    width: 35px;
+
+#searchbar {
+    width: 625px;
+    height: 45px;
+    border-radius: 100px;
+    border-color:lightgray ;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 16px;
     position: relative;
-    left: -3px;
+    bottom: 5px;
+    overflow: hidden;
+    display: flex;
+    z-index: 100;
+
 }
 
-#searchbarbutton svg path {
-    fill: #4285F4
+#searchbar:hover {
+    box-shadow: 0px 2px 5px #000000 ;
+}
+
+#searchbar > input {
+    height: 45px;
+    border-style: none;
+    font-size: 16px;
+    line-height: 45px;
+    padding-left: 20px;
+    flex: 1;
+}
+
+#searchbar > input:focus {
+    outline: none;
+}
+
+#searchbar button {
+    border: none;
+    cursor: pointer;
+}
+
+#searchbar button:focus {
+    outline: none;
+}
+
+#boxesicon {
+    width: 25px;
+    height: 25px;
+    opacity: 0.6;
+    background-size: 26px;
+    position: absolute;
+    right: 130px;
+    bottom: 14px;
+}
+
+#active ::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    background-color: #4285F4;
+    left: 5px;
+    bottom: 0px;
+}
+
+#smenu2 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 100px;
+}
+
+#menu2 li {
+    padding: 0px 10px 15px 20px;
+}
+
+#search {
+    margin-left: 150px;
+    font-family: 'Arial';
+}
+
+#searchnumber {
+    font-size: 0.8rem;
+    color: gray;
+
+}
+
+#option {
+    width: 100%;
+    height: 50px;
+    border-width: 0px;
+    border-bottom: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    display: flex;
+    align-items: flex-end;
+    font-family: 'Arial';
+    font-size: 13px;
+    color: #707070;
+    padding-top: 64px;
+}
+
+#menu1 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 150px;
+}
+
+#menu1 li {
+    padding: 0px 10px 15px 20px;
+}
+
+#optionsmenuactive {
+    color: #4285F4;
+    font-weight: bold;
+    position: relative;
+    z-index: -1;
+}
+
+.searchresult h2{
+    font-size: 18px;
+    color: #1a0dab;
+    font-family: inherit;
+}
+
+.searchresult a{
+    color: green;
+}
+
+.searchresult p{
+    font-size: 15px;
+}
+
+.searchresult button{
+    border: none;
+    background-color: white;
+}
+
+.searchresult{
+    margin: 30px;
+}
+
+.searchresult table{
+    border: 1px solid #8c8c8c;
+    border-radius: 10px;
+    height: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.searchresult table th {
+    float: left;
+    font-size: 20px;
+}
+
+
+
+.pagelist {
+     list-style: none;
+     color: #1d87ff;
+     display: flex;
+     flex-direction: row;
+     font-size: 12px;
+     margin-bottom: 30px;
+     margin-left: 100px;
+ }
+
+.pagelistfirst {
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+
+.pagelist li {
+    margin-right: 15px;
+    position: relative;
+}
+
+.pagelistnext {
+    margin-left: 40px;
+    font-size: 13px;
+}
+.relatedsearches h3 {
+    font-weight: normal;
+    font-size: 19px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+
+.relatedlists ul {
+    list-style: none;
+    color: #1d01bd;
+    padding-left: 0px;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.relatedlists {
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.relatedlists ul li {
+    margin-bottom: 8px;
+}
+
+
+#footer {
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    font-size: 13px;
+    font-family: arial;
+    color: #555555;
+}
+
+#footermenu {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    margin-left: 135px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+#footermenu li {
+    padding-right: 30px;
+}
+
+#footerlocation {
+    display: flex;
+
+    margin-left: 175px;
+    position: relative;
+    top: -5px;
 }

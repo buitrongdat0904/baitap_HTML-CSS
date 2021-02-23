@@ -68,7 +68,7 @@ html, body {
 }
 
 #searchbar:hover {
-    box-shadow: 0px 2px 5px #000000 ;
+    box-shadow: 1px 1px 1px 1px #e6e6e6;
 }
 
 #searchbar > input {
@@ -326,9 +326,7 @@ nav ul li i {
     padding-left: 20px;
 }
 
-.nav >ul :hover{
-    text-decoration: underline;
-}
+
 .nav-list{
     padding-left: 700px;
 

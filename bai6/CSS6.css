@@ -28,7 +28,9 @@ li {
 .nav-list{
     float: right;
 }
-
+.nav-list li  {
+     padding-right: 10px;
+ }
 .nav-list-left{
     float: left;
 }
@@ -82,13 +84,12 @@ nav > ul > li{
 .search{
     margin-top: 20px;
     text-align: center;
-  margin-left: 450px;
-    /*line-height: 32px;*/
-    /*border-radius: 10px;*/
+    margin-left: 450px;
+
     width: 625px;
     height: 45px;
     border-radius: 100px;
-    border-color:lightgray ;
+    border-color: lightgray ;
     border-style: solid;
     border-width: 1px;
     font-size: 16px;

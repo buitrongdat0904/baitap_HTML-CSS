@@ -114,13 +114,14 @@ html, body {
     bottom: 0px;
 }
 
-#smenu2 {
+#menu2 {
     list-style: none;
     display: flex;
     flex-direction: row;
     padding: 0px;
     margin: 0px;
-    margin-left: 100px;
+    float: right;
+    padding-left: 100px;
 }
 
 #menu2 li {
@@ -297,4 +298,38 @@ html, body {
     margin-left: 175px;
     position: relative;
     top: -5px;
+}
+
+nav > ul > li{
+    color: gray;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+}
+
+nav > ul > li >i{
+    position:relative;
+    top:-4px;
+    z-index:2;
+}
+
+nav > ul {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    float: right;
+}
+
+nav > ul > li{
+    font-size: 14px;
+}
+nav ul li i {
+    padding-left: 20px;
+}
+
+.nav >ul :hover{
+    text-decoration: underline;
+}
+.nav-list{
+    padding-left: 700px;
+
 }
